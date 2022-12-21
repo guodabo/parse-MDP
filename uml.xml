@@ -1,0 +1,15 @@
+<application>
+  <component name="UmlConfiguration">
+    <option name="fitContentAfterLayout" value="false" />
+    <option name="relayoutOnNewElements" value="false" />
+    <option name="categories">
+      <map>
+        <entry id="AlchemyModelDependency" categories="Fields" />
+        <entry id="AppEngineModelDependency" categories="Fields" />
+        <entry id="DjangoModelDependency" categories="Fields" />
+        <entry id="Microservices" categories="From tests;From libraries;Show Neighbours of Selected Nodes" />
+        <entry id="Python" categories="Methods;Inner Classes;Fields" />
+      </map>
+    </option>
+  </component>
+</application>
